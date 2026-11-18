@@ -10,7 +10,7 @@
 # 6. print the receipt/output
 #
 
-# ----------- Prices -----------
+# ----------- Prices ----------
 #
 SMALL_PRICE = 8
 LARGE_PRICE = 12
