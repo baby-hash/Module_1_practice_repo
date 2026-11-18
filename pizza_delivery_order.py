@@ -1,4 +1,5 @@
 # pizza_delivery_order.py
+#this is a simple pizza delivery order calculator
 # Purpose: Calculate the total cost of a pizza order (size + toppings + delivery).
 #
 # ------------ Psuedo Code ------------
